@@ -2,6 +2,8 @@
 
 Analysis code accompanying the manuscript "Three decades of directional change in global waterbird assemblage structure" by Nga-Yee Lai, Sam Nicol, Richard A. Fuller, Taej Mundkur, Moriaki Yasuhara and Tatsuya Amano (manuscript in preparation; the full reference will be added once published).
 
+Archived release: https://doi.org/10.5281/zenodo.23830973
+
 The study uses yearly waterbird counts from the International Waterbird Census (IWC) and the
 Christmas Bird Count (CBC), 1990-2018, to ask (i) how the abundance of initially common and rare
 species changed, (ii) how the shape of the species abundance distribution (SAD, parameter α of
