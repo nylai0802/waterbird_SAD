@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite this archived release and, once published, the associated paper."
+title: "Code for: Three decades of directional change in global waterbird assemblage structure"
+type: software
+authors:
+  - family-names: "Lai"
+    given-names: "Nga-Yee"
+  - family-names: "Nicol"
+    given-names: "Sam"
+  - family-names: "Fuller"
+    given-names: "Richard A."
+  - family-names: "Mundkur"
+    given-names: "Taej"
+  - family-names: "Yasuhara"
+    given-names: "Moriaki"
+  - family-names: "Amano"
+    given-names: "Tatsuya"
+version: "1.0.0"
+date-released: "2026-10-31"   # update to the date of your release
+license: MIT
+# repository-code: "https://github.com/YOUR-USERNAME/YOUR-REPO"   # add once the repository exists
+# doi: "10.5281/zenodo.XXXXXXX"                                   # add after creating the Zenodo release
+#
+# Add the block below once the paper is published (the manuscript is not yet published):
+# preferred-citation:
+#   type: article
+#   authors:
+#     - family-names: "Lai"
+#       given-names: "Nga-Yee"
+#     # ... other authors as above
+#   title: "Three decades of directional change in global waterbird assemblage structure"
+#   journal: "[JOURNAL NAME]"
+#   year: 2026
+#   doi: "..."
